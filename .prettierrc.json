@@ -1,0 +1,11 @@
+{
+    "proseWrap": "preserve",
+    "printWidth": 190,
+    "tabWidth": 4,
+    "eslintIntegration": true,
+    "singleQuote": true,
+    "semi": false,
+    "jsxBracketSameLine": true,
+    "htmlWhitespaceSensitivity": "ignore",
+    "bracketSpacing": true
+}
