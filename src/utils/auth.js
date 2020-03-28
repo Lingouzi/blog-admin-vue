@@ -1,7 +1,7 @@
 import Cookies from 'js-cookie'
 
 /** 存储token到浏览器cookie,管理token */
-const TokenKey = 'ergouzi_token'
+const TokenKey = 'blog_token'
 
 export function getToken() {
     return Cookies.get(TokenKey)

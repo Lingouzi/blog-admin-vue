@@ -1,4 +1,4 @@
-# ergouzi-admin
+# blog-admin-vue
 
 ## Project setup
 ```
